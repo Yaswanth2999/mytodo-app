@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Yaswanth2999/mytodo-app/static/css/main.235cdd81.chunk.css",
+    "main.js": "/Yaswanth2999/mytodo-app/static/js/main.357d6918.chunk.js",
+    "main.js.map": "/Yaswanth2999/mytodo-app/static/js/main.357d6918.chunk.js.map",
+    "runtime-main.js": "/Yaswanth2999/mytodo-app/static/js/runtime-main.a6a584c8.js",
+    "runtime-main.js.map": "/Yaswanth2999/mytodo-app/static/js/runtime-main.a6a584c8.js.map",
+    "static/js/2.1f583f33.chunk.js": "/Yaswanth2999/mytodo-app/static/js/2.1f583f33.chunk.js",
+    "static/js/2.1f583f33.chunk.js.map": "/Yaswanth2999/mytodo-app/static/js/2.1f583f33.chunk.js.map",
+    "static/js/3.14750dfe.chunk.js": "/Yaswanth2999/mytodo-app/static/js/3.14750dfe.chunk.js",
+    "static/js/3.14750dfe.chunk.js.map": "/Yaswanth2999/mytodo-app/static/js/3.14750dfe.chunk.js.map",
+    "index.html": "/Yaswanth2999/mytodo-app/index.html",
+    "precache-manifest.ac83977c0b517467698b6e11f21e82f0.js": "/Yaswanth2999/mytodo-app/precache-manifest.ac83977c0b517467698b6e11f21e82f0.js",
+    "service-worker.js": "/Yaswanth2999/mytodo-app/service-worker.js",
+    "static/css/main.235cdd81.chunk.css.map": "/Yaswanth2999/mytodo-app/static/css/main.235cdd81.chunk.css.map",
+    "static/js/2.1f583f33.chunk.js.LICENSE.txt": "/Yaswanth2999/mytodo-app/static/js/2.1f583f33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Yaswanth2999/mytodo-app/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6a584c8.js",
+    "static/js/2.1f583f33.chunk.js",
+    "static/css/main.235cdd81.chunk.css",
+    "static/js/main.357d6918.chunk.js"
+  ]
+}
